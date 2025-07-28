@@ -17,7 +17,7 @@ I make useful desktop/web applications for VRChat.
 
 ---
 
-![Raifa's GitHub stats](https://github-readme-stats-raifa21s-projects.vercel.app/api?username=Raifa21&show_icons=true&theme=prussian&show=reviews)
+![Raifa's GitHub stats](https://github-readme-stats-raifa21s-projects.vercel.app/api?username=Raifa21&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats-raifa21s-projects.vercel.app/api/top-langs/?username=Raifa21&exclude_repo=WizardGame&theme=prussian&hide=shell,javascript&langs_count=4)
 <!--
 **Raifa21/Raifa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
