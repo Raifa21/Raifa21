@@ -2,7 +2,7 @@
 
 Hey there! 
 
-I'm Raifa, soon-to-be a fresher @Cambridge for ComSci!
+I'm Raifa, soon-to-be fresher @Cambridge for ComSci!
 
 I make useful desktop/web applications for VRChat.
 
