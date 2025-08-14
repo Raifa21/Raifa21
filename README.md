@@ -2,7 +2,7 @@
 
 Hey there! 
 
-I'm Raifa, offer holder for ComSci@Cambridge!
+I'm Raifa, soon-to-be a fresher @Cambridge for ComSci!
 
 I make useful desktop/web applications for VRChat.
 
