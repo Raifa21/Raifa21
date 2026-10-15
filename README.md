@@ -4,6 +4,8 @@ Hey there!
 
 I'm Raifa, second year CompSci at the University of Cambridge.
 
+Interested in Computer Graphics, hardware and architecture, and HCI.
+
 I make useful desktop/web applications for VRChat.
 
 ---
