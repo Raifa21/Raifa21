@@ -2,7 +2,7 @@
 
 Hey there! 
 
-I'm Raifa, a first year at the University of Cambridge.
+I'm Raifa, second year CompSci at the University of Cambridge.
 
 I make useful desktop/web applications for VRChat.
 
